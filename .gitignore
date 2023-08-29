@@ -1,0 +1,19 @@
+# .gitignore
+
+# Ignore data directory
+/data/
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore Python virtual environments
+venv/
+*.venv/
+env/
+*.env/
+
+# Ignore Jupyter Notebook files
+*.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
